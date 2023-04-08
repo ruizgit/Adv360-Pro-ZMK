@@ -39,11 +39,11 @@
 
         default_layer {
             bindings = <
- &kp EQUAL     &kp N1    &kp N2  &kp N3    &kp N4  &kp N5               &tog 1                                                                      &mo 3  &kp N6    &kp N7     &kp N8    &kp N9         &kp N0  &kp MINUS
-   &kp TAB      &kp Q     &kp W   &kp E     &kp R   &kp F            &kp LC(Z)                                                                  &kp LC(Y)   &kp Y     &kp U      &kp I     &kp J  &kp SEMICOLON   &kp BSLH
-   &kp ESC      &kp A     &kp S   &kp D     &kp T   &kp N             &kp HOME  &kp LCTRL   &kp LALT                   &kp LGUI  &kp RCTRL        &kp END   &kp M     &kp O      &kp K     &kp L          &kp P    &kp SQT
- &kp LSHFT      &kp Z     &kp X   &kp C     &kp V   &kp B                &none      &none  &kp LC(V)   &none   &none  &kp PG_UP      &none          &none   &kp G     &kp H  &kp COMMA   &kp DOT       &kp FSLH  &kp RSHFT
-     &mo 2  &kp GRAVE  &kp CAPS  &kp UP  &kp DOWN                    &kp SPACE    &kp DEL  &kp LC(C)                  &kp PG_DN  &kp ENTER  &kp BACKSPACE          &kp LEFT  &kp RIGHT  &kp LBKT       &kp RBKT      &mo 2
+ &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5               &tog 1                                                                      &mo 3  &kp N6  &kp N7     &kp N8    &kp N9         &kp N0  &kp MINUS
+   &kp TAB      &kp Q     &kp W     &kp E      &kp R   &kp F            &kp LC(Z)                                                                  &kp LC(Y)   &kp Y   &kp U      &kp I     &kp J  &kp SEMICOLON   &kp BSLH
+   &kp ESC      &kp A     &kp S     &kp D      &kp T   &kp N             &kp HOME  &kp LCTRL   &kp LALT                   &kp LGUI  &kp RCTRL        &kp END   &kp M   &kp O      &kp K     &kp L          &kp P    &kp SQT
+ &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                &none      &none  &kp LC(V)   &none   &none  &kp PG_UP      &none          &none   &kp G   &kp H  &kp COMMA   &kp DOT       &kp FSLH  &kp RSHFT
+     &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE    &kp DEL  &kp LC(C)                  &kp PG_DN  &kp ENTER  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LBKT       &kp RBKT      &mo 2
             >;
         };
 
